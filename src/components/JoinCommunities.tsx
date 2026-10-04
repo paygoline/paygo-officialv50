@@ -8,7 +8,7 @@ const JoinCommunities = ({ onBack }: { onBack: () => void }) => {
   };
 
   const handleJoinTelegram = () => {
-    window.open('https://t.me/+nf3sGnOADVRiMDI0', '_blank');
+    window.open('https://t.me/SMART_4PF', '_blank');
   };
 
   return (
